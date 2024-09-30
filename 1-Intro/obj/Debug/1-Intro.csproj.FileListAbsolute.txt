@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\C#_new\1-Intro\bin\Debug\1-Intro.exe.config
+C:\Users\Hp\source\repos\C#_new\1-Intro\bin\Debug\1-Intro.exe
+C:\Users\Hp\source\repos\C#_new\1-Intro\bin\Debug\1-Intro.pdb
+C:\Users\Hp\source\repos\C#_new\1-Intro\obj\Debug\1-Intro.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\C#_new\1-Intro\obj\Debug\1-Intro.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\C#_new\1-Intro\obj\Debug\1-Intro.exe
+C:\Users\Hp\source\repos\C#_new\1-Intro\obj\Debug\1-Intro.pdb
