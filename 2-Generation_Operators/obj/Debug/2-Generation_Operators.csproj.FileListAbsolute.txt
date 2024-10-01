@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\C#_new\2-Generation_Operators\bin\Debug\2-Generation_Operators.exe.config
+C:\Users\Hp\source\repos\C#_new\2-Generation_Operators\bin\Debug\2-Generation_Operators.exe
+C:\Users\Hp\source\repos\C#_new\2-Generation_Operators\bin\Debug\2-Generation_Operators.pdb
+C:\Users\Hp\source\repos\C#_new\2-Generation_Operators\obj\Debug\2-Generation_Operators.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\C#_new\2-Generation_Operators\obj\Debug\2-Generation_Operators.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\C#_new\2-Generation_Operators\obj\Debug\2-Generation_Operators.exe
+C:\Users\Hp\source\repos\C#_new\2-Generation_Operators\obj\Debug\2-Generation_Operators.pdb
