@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\C#_new\3-FilteringOprators\bin\Debug\3-FilteringOprators.exe.config
+C:\Users\Hp\source\repos\C#_new\3-FilteringOprators\bin\Debug\3-FilteringOprators.exe
+C:\Users\Hp\source\repos\C#_new\3-FilteringOprators\bin\Debug\3-FilteringOprators.pdb
+C:\Users\Hp\source\repos\C#_new\3-FilteringOprators\obj\Debug\3-FilteringOprators.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\C#_new\3-FilteringOprators\obj\Debug\3-FilteringOprators.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\C#_new\3-FilteringOprators\obj\Debug\3-FilteringOprators.exe
+C:\Users\Hp\source\repos\C#_new\3-FilteringOprators\obj\Debug\3-FilteringOprators.pdb
