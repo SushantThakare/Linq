@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\C#_new\4-SortingOperators\bin\Debug\4-SortingOperators.exe.config
+C:\Users\Hp\source\repos\C#_new\4-SortingOperators\bin\Debug\4-SortingOperators.exe
+C:\Users\Hp\source\repos\C#_new\4-SortingOperators\bin\Debug\4-SortingOperators.pdb
+C:\Users\Hp\source\repos\C#_new\4-SortingOperators\obj\Debug\4-SortingOperators.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\C#_new\4-SortingOperators\obj\Debug\4-SortingOperators.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\C#_new\4-SortingOperators\obj\Debug\4-SortingOperators.exe
+C:\Users\Hp\source\repos\C#_new\4-SortingOperators\obj\Debug\4-SortingOperators.pdb
