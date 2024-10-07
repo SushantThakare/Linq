@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\C#_new\5-sortMethod\bin\Debug\5-sortMethod.exe.config
+C:\Users\Hp\source\repos\C#_new\5-sortMethod\bin\Debug\5-sortMethod.exe
+C:\Users\Hp\source\repos\C#_new\5-sortMethod\bin\Debug\5-sortMethod.pdb
+C:\Users\Hp\source\repos\C#_new\5-sortMethod\obj\Debug\5-sortMethod.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\C#_new\5-sortMethod\obj\Debug\5-sortMethod.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\C#_new\5-sortMethod\obj\Debug\5-sortMethod.exe
+C:\Users\Hp\source\repos\C#_new\5-sortMethod\obj\Debug\5-sortMethod.pdb
