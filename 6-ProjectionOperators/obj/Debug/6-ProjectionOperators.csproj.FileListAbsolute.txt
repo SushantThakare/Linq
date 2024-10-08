@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\C#_new\6-ProjectionOperators\bin\Debug\6-ProjectionOperators.exe.config
+C:\Users\Hp\source\repos\C#_new\6-ProjectionOperators\bin\Debug\6-ProjectionOperators.exe
+C:\Users\Hp\source\repos\C#_new\6-ProjectionOperators\bin\Debug\6-ProjectionOperators.pdb
+C:\Users\Hp\source\repos\C#_new\6-ProjectionOperators\obj\Debug\6-ProjectionOperators.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\C#_new\6-ProjectionOperators\obj\Debug\6-ProjectionOperators.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\C#_new\6-ProjectionOperators\obj\Debug\6-ProjectionOperators.exe
+C:\Users\Hp\source\repos\C#_new\6-ProjectionOperators\obj\Debug\6-ProjectionOperators.pdb
