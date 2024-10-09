@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\C#_new\7-AggrigationOperators\bin\Debug\7-AggrigationOperators.exe.config
+C:\Users\Hp\source\repos\C#_new\7-AggrigationOperators\bin\Debug\7-AggrigationOperators.exe
+C:\Users\Hp\source\repos\C#_new\7-AggrigationOperators\bin\Debug\7-AggrigationOperators.pdb
+C:\Users\Hp\source\repos\C#_new\7-AggrigationOperators\obj\Debug\7-AggrigationOperators.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\C#_new\7-AggrigationOperators\obj\Debug\7-AggrigationOperators.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\C#_new\7-AggrigationOperators\obj\Debug\7-AggrigationOperators.exe
+C:\Users\Hp\source\repos\C#_new\7-AggrigationOperators\obj\Debug\7-AggrigationOperators.pdb
