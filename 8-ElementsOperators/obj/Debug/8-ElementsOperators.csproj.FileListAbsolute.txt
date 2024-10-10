@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\C#_new\8-ElementsOperators\bin\Debug\8-ElementsOperators.exe.config
+C:\Users\Hp\source\repos\C#_new\8-ElementsOperators\bin\Debug\8-ElementsOperators.exe
+C:\Users\Hp\source\repos\C#_new\8-ElementsOperators\bin\Debug\8-ElementsOperators.pdb
+C:\Users\Hp\source\repos\C#_new\8-ElementsOperators\obj\Debug\8-ElementsOperators.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\C#_new\8-ElementsOperators\obj\Debug\8-ElementsOperators.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\C#_new\8-ElementsOperators\obj\Debug\8-ElementsOperators.exe
+C:\Users\Hp\source\repos\C#_new\8-ElementsOperators\obj\Debug\8-ElementsOperators.pdb
