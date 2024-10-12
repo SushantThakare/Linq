@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\C#_new\9-PartitioningOperators\bin\Debug\9-PartitioningOperators.exe.config
+C:\Users\Hp\source\repos\C#_new\9-PartitioningOperators\bin\Debug\9-PartitioningOperators.exe
+C:\Users\Hp\source\repos\C#_new\9-PartitioningOperators\bin\Debug\9-PartitioningOperators.pdb
+C:\Users\Hp\source\repos\C#_new\9-PartitioningOperators\obj\Debug\9-PartitioningOperators.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\C#_new\9-PartitioningOperators\obj\Debug\9-PartitioningOperators.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\C#_new\9-PartitioningOperators\obj\Debug\9-PartitioningOperators.exe
+C:\Users\Hp\source\repos\C#_new\9-PartitioningOperators\obj\Debug\9-PartitioningOperators.pdb
